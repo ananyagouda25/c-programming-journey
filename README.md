@@ -6,7 +6,9 @@ This repository contains the milestones I came across during my C programming jo
 - calculator.c
 - quadratic-roots.c
 - swap-numbers.c
+- factorial.c
 
 ## 💡 Week - 02:
 - gcd.c
-- Longest-inc-contiguous.c
+- longest-inc-contiguous.c
+- palindrome.c
