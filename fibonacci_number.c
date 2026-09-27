@@ -4,7 +4,7 @@
 int main(){
 int prev,curr,tot,n;
 tot=0;prev=0;curr=1;
-scanf("%d",&n;
+scanf("%d",&n);
 printf("%d\t%d\t",prev,curr);
 for (int a=0;a<(n-2);a++){
     tot=prev+curr;
